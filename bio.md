@@ -11,3 +11,6 @@ Of course, I enjoy programming, but I have also been traveling a lot lately with
 # Programming Background
 
 Previous Experience: Prior to beginning the post-bacc Computer Science Program at OSU, I did some work in VBA for Excel.  Essentially I created macros for other people in order to make their tasks in Excel more efficient.
+
+Degree Experience: My favorite program I have created in this degree so far was created in C++ during CS 162.  It was a fantasy combat game in which we created different characters and had them battle each other.
+I did enjoy the Assembly class, however, as it allowed me a lot of control on the programs we developed, even if the programs took a lot longer to create than those done in C++.
