@@ -4,6 +4,8 @@
 
 My name is Ashley Grealish and I began the post-bacc Computer Science program at Oregon State University in January of 2014. My prior bachelor's degree is in Mathematics, and I also have a master's degree in Finance.  From these degrees I received some experience in Computer Programming and developed an interest in it, so I decided to pursue my Computer Science degree.
 
+I live in Oregon and have lived in Oregon for most of my life.  My degrees were both completed outside of Oregon, so the Computer Science degree I am currently pursuing will be my only degree completed at an Oregon university.
+
 ## Hobbies
 
 Of course, I enjoy programming, but I have also been traveling a lot lately with an emphasis in going to the national parks in the U.S.  I love reading and writing, but do not currently have a lot of time to devote to these.
