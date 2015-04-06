@@ -9,3 +9,5 @@ My name is Ashley Grealish and I began the post-bacc Computer Science program at
 Of course, I enjoy programming, but I have also been traveling a lot lately with an emphasis in going to the national parks in the U.S.  I love reading and writing, but do not currently have a lot of time to devote to these.
 
 # Programming Background
+
+Previous Experience: Prior to beginning the post-bacc Computer Science Program at OSU, I did some work in VBA for Excel.  Essentially I created macros for other people in order to make their tasks in Excel more efficient.
