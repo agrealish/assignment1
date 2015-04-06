@@ -8,4 +8,8 @@ My name is Ashley Grealish and I began the post-bacc Computer Science program at
 
 Of course, I enjoy programming, but I have also been traveling a lot lately with an emphasis in going to the national parks in the U.S.  I love reading and writing, but do not currently have a lot of time to devote to these.
 
+## Interests
+
+My interests lie in traveling, technology, animation, books, and movies.
+
 # Programming Background
